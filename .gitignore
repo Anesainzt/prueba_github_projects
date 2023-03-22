@@ -2,4 +2,4 @@ target/
 *.log
 .classpath
 .settings/
-.project/
+.project
