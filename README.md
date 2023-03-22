@@ -26,3 +26,8 @@ Run the following command to remove the database schema
 Run the following command to generate the Javadoc documentation inside the *target/site/apidocs* directory
 
       mvn javadoc:javadoc
+
+
+git commit -m "COMENTARIO"
+git log
+
